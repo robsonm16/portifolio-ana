@@ -1,0 +1,5 @@
+# PDF original (grande e não usado pelo site)
+*.pdf
+
+# Configuração local do Claude
+.claude/
